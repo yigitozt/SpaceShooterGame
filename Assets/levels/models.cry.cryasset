@@ -1,0 +1,41 @@
+<AssetMetadata version="0" type="Level" guid="34e9b1d6-db4e-19a2-d9ea-b2ae02b1780c" source="">
+ <Files>
+  <File path="models/models.cry"/>
+ </Files>
+ <Dependencies>
+  <Path>%editor%/objects/mtlplane.cgf</Path>
+  <Path>%engine%/engineassets/codecoverage/hit.dds</Path>
+  <Path>%engine%/engineassets/codecoverage/pbar.dds</Path>
+  <Path>%engine%/engineassets/codecoverage/unexpected.dds</Path>
+  <Path>%engine%/engineassets/icons/averagememoryusage.dds</Path>
+  <Path>%engine%/engineassets/icons/highmemoryusage.dds</Path>
+  <Path>%engine%/engineassets/icons/livepreview.dds</Path>
+  <Path>%engine%/engineassets/icons/lowmemoryusage.dds</Path>
+  <Path>%engine%/engineassets/materials/fog/fogvolumebox.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/fogvolumeellipsoid.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceaninto.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceanintolowspec.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceanoutof.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceanoutoflowspec.mtl</Path>
+  <Path>%engine%/engineassets/materials/material_terrain_default.mtl</Path>
+  <Path>%engine%/engineassets/materials/sky/sky.mtl</Path>
+  <Path>%engine%/engineassets/materials/water/ocean_default.mtl</Path>
+  <Path>%engine%/engineassets/materials/water/wateroceanbottom.mtl</Path>
+  <Path>%engine%/engineassets/texturemsg/defaultnouvs.dds</Path>
+  <Path>%engine%/engineassets/textures/defaults/16_12.dds</Path>
+  <Path>%engine%/engineassets/textures/defaults/16_34.dds</Path>
+  <Path>%engine%/engineassets/textures/defaults/16_5.dds</Path>
+  <Path>%engine%/engineassets/textures/defaults/16_grey.dds</Path>
+  <Path>%engine%/engineassets/textures/grey.dds</Path>
+  <Path>%engine%/engineassets/textures/skys/night/half_moon.dds</Path>
+  <Path>e 45 aircraft_fbx.7.4_binary.cgf</Path>
+  <Path>e 45 aircraft_fbx.mtl</Path>
+  <Path>libs/environmentpresets/models.xml</Path>
+  <Path>objects/arc/arc170.cgf</Path>
+  <Path>objects/arc/arc170.mtl</Path>
+  <Path>objects/arc/arc170_txt_version_4_d.dds</Path>
+  <Path>objects/arc/arc170_txt_version_4_d_normal.dds</Path>
+  <Path>objects/e45/e-45 _col_3.dds</Path>
+  <Path>scripts/ai/factions.xml</Path>
+ </Dependencies>
+</AssetMetadata>

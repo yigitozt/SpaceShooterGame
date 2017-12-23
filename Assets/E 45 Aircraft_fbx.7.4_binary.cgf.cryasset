@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="ae4c5c0e-7f76-5817-854b-cf2286711cb2" source="E 45 Aircraft_fbx.7.4_binary.fbx">
+ <Files>
+  <File path="E 45 Aircraft_fbx.7.4_binary.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">3</Detail>
+  <Detail name="triangleCount">3297</Detail>
+  <Detail name="vertexCount">3165</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./E 45 Aircraft_fbx.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

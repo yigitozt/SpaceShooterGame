@@ -1,0 +1,13 @@
+<AssetMetadata version="0" type="Material" guid="8d09a398-e37e-ef4d-e875-fc0d472994ab">
+ <Files>
+  <File path="e 45 aircraft_fbx.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">2</Detail>
+  <Detail name="textureCount">2</Detail>
+ </Details>
+ <Dependencies>
+  <Path>objects/e45/E-45 _col_3.dds</Path>
+  <Path>objects/e45/E-45 _col_3.dds</Path>
+ </Dependencies>
+</AssetMetadata>
